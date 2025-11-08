@@ -10,6 +10,6 @@ from Azure I learned the way and the steps to publish even deploying from vscode
 
 <img width="2879" height="1651" alt="azure censurado" src="https://github.com/user-attachments/assets/1c81e6e6-5d92-476c-83db-3e0bbefd2798" />
 
-This falvours on the list were added by a couple of friends!
+This flavours on the list were added by a couple of friends!
 <img width="2879" height="1803" alt="image" src="https://github.com/user-attachments/assets/c3c396d8-1bba-4fdd-99db-ba71d07d92e4" />
 
